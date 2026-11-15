@@ -1,0 +1,5 @@
+:root { font-family: Inter, 'Segoe UI', system-ui, Arial, sans-serif; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+html, body, #root { min-height: 100%; margin: 0; }
+button, a { -webkit-tap-highlight-color: transparent; }
+a:focus-visible, button:focus-visible { outline: 3px solid #e9985a; outline-offset: 4px; }

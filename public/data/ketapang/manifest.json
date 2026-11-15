@@ -1,0 +1,31 @@
+{
+  "project": "Beneath the Smoke",
+  "studyArea": {
+    "label": "Ketapang, West Kalimantan, Indonesia",
+    "center": [
+      109.97,
+      -1.83
+    ],
+    "bounds": null,
+    "status": "unverified"
+  },
+  "event": {
+    "label": "2026 West Kalimantan fires (study footprint pending)",
+    "startDate": null,
+    "endDate": null,
+    "status": "unverified"
+  },
+  "radar": {
+    "status": "unverified",
+    "sensor": "NASA-ISRO NISAR L-band",
+    "product": "L2 GCOV Provisional",
+    "polarization": null,
+    "beforeDate": null,
+    "afterDate": null,
+    "radarChangeAvailable": false,
+    "sourceUrl": "https://search.asf.alaska.edu/",
+    "notes": "No exact overlapping granule or compatible pair has been verified."
+  },
+  "layers": [],
+  "updatedUtc": null
+}

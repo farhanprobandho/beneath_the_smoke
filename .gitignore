@@ -1,0 +1,32 @@
+# Frontend
+node_modules/
+dist/
+.vite/
+*.local
+
+# Credentials and local setup
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.vscode/settings.json
+
+# Local research outputs and large satellite data
+data/raw/
+data/processed/
+results/
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.nc
+*.zip
+!README.md
+
+# System files
+.DS_Store
+Thumbs.db
